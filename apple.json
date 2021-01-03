@@ -1,6 +1,4 @@
 [
-
-    {"id" : "A000", "color" : "none", "storage" : "64GB", "network" : "wifi", "price" : "18900"},
     {"id" : "A001", "color" : "spacegray", "storage" : "64GB", "network" : "wifi", "price" : "18900"},
     {"id" : "A002", "color" : "silver", "storage" : "64GB", "network" : "wifi", "price" : "18900"},
     {"id" : "A003", "color" : "gold", "storage" : "64GB", "network" : "wifi", "price" : "18900"},
